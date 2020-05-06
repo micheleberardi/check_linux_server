@@ -16,3 +16,7 @@ so i create this script that check if MySQL and apache runs and in case are down
 * * * * * root /usr/bin/python3 /home/michelone/check_status.py
 
 ```
+
+# SLACK NOTIFICATION
+
+![SLACK NOT](slack_not.png)
